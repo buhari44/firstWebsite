@@ -1,0 +1,27 @@
+header{
+    text-align: center;
+
+}
+img{
+    height: 15em;
+    border-radius: 30%;
+}
+main{
+    text-align: center;
+    
+    background-color:blue;
+    color:white
+}
+header p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size:2em;
+    font-weight:bolder;
+    word-spacing: 1px;
+}
+main p{
+    line-height: 1.5;
+    font-family: Arial, Helvetica, sans-serif;;
+}
+aside{
+    margin:7%;
+}
